@@ -1,0 +1,90 @@
+{
+  "ac": {
+    "378-gt-zagato": {
+      "model_name": "378 GT Zagato",
+      "generations": [
+        {
+          "generation_value": "100007066",
+          "generation_title": "378 GT Zagato I (2012-2012)"
+        }
+      ]
+    },
+    "ace": {
+      "model_name": "Ace",
+      "generations": [
+        {
+          "generation_value": "100007670",
+          "generation_title": "AC Ace (1992-2000)"
+        }
+      ]
+    },
+    "aceca": {
+      "model_name": "Aceca",
+      "generations": [
+        {
+          "generation_value": "100007671",
+          "generation_title": "Aceca (1998-2000)"
+        }
+      ]
+    },
+    "cobra": {
+      "model_name": "Cobra",
+      "generations": [
+        {
+          "generation_value": "238",
+          "generation_title": "AC Cobra Mk VI (2013-2015)"
+        },
+        {
+          "generation_value": "239",
+          "generation_title": "AC Cobra Mk V (1999-2007)"
+        },
+        {
+          "generation_value": "240",
+          "generation_title": "AC Cobra Mk IV (1990-2001)"
+        },
+        {
+          "generation_value": "6737",
+          "generation_title": "AC Cobra Mk III (1965-1967)"
+        }
+      ]
+    }
+  },
+  "aito": {
+    "m5": {
+      "model_name": "M5",
+      "generations": [
+        {
+          "generation_value": "300000737",
+          "generation_title": "Aito M5 (2022-2025)"
+        }
+      ]
+    },
+    "m7": {
+      "model_name": "M7",
+      "generations": [
+        {
+          "generation_value": "300001948",
+          "generation_title": "Aito M7 (2022-2025)"
+        }
+      ]
+    },
+    "m8": {
+      "model_name": "M8",
+      "generations": [
+        {
+          "generation_value": "300003530",
+          "generation_title": "Aito M8 (2025-2025)"
+        }
+      ]
+    },
+    "m9": {
+      "model_name": "M9",
+      "generations": [
+        {
+          "generation_value": "300002360",
+          "generation_title": "Aito M9 (2023-2025)"
+        }
+      ]
+    }
+  }
+}
